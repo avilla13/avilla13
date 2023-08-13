@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex Villalobos</h1>
+<h2 align="center">Hi 👋, I'm Alex Villalobos</h2>
 <h3 align="center">A curious fullstack developer from Chicago</h3>
 
 - 🔭 I’m currently working on [ProjectHub](https://github.com/avilla13/ProjectHub)
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **xetox13@gmail.com**
 
-- ⚡ Fun fact **I like to geek out on movies, anime, games & comics**
+- ⚡ Fun fact **I like to geek out on movies, anime, games, Crossfit & comics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
